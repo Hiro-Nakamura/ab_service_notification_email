@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "ab-utils": "github:Hiro-Nakamura/ab-utils#master",
-    "cote": "^0.21.1",
+    "cote": "^1.0.3",
     "nodemailer": "^6.4.2"
   },
   "scripts": {
